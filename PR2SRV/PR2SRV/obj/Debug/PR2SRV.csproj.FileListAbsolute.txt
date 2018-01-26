@@ -1,5 +1,0 @@
-C:\Users\oxyge\source\repos\pr2tools.github.io\PR2SRV\PR2SRV\bin\Debug\PR2SRV.exe
-C:\Users\oxyge\source\repos\pr2tools.github.io\PR2SRV\PR2SRV\bin\Debug\PR2SRV.pdb
-C:\Users\oxyge\source\repos\pr2tools.github.io\PR2SRV\PR2SRV\obj\Debug\PR2SRV.csproj.CoreCompileInputs.cache
-C:\Users\oxyge\source\repos\pr2tools.github.io\PR2SRV\PR2SRV\obj\Debug\PR2SRV.exe
-C:\Users\oxyge\source\repos\pr2tools.github.io\PR2SRV\PR2SRV\obj\Debug\PR2SRV.pdb
